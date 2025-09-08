@@ -7,7 +7,6 @@ This project focused on **orchestrating strategic branding initiatives through d
 
 The initiative combined **multi-source data integration, A/B testing, and automated pipelines** to deliver actionable insights for branding and marketing performance.  
 
----
 
 ## ✨ Key Highlights  
 
@@ -35,7 +34,6 @@ The initiative combined **multi-source data integration, A/B testing, and automa
 - **Visualization & BI**: Looker (dashboards, KPI reporting)  
 - **Other**: A/B Testing frameworks, SQL, Python, JavaScript 
 
----
 
 ## 🚀 Impact  
 - Overcame analysis bottlenecks and provided greater flexibility for **multi-metric media comparisons**.  
